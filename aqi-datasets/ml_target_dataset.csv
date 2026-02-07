@@ -1,0 +1,979 @@
+State,County,Year,pct_unhealthy,sample_weight
+Alabama,Baldwin,2025,0.0,1.0
+Alabama,Clay,2025,0.0,1.0
+Alabama,DeKalb,2025,0.0,1.0
+Alabama,Elmore,2025,0.0,0.9833333333333333
+Alabama,Etowah,2025,0.0,1.0
+Alabama,Jefferson,2025,0.0,1.0
+Alabama,Lawrence,2025,0.0,0.10555555555555556
+Alabama,Madison,2025,0.0,1.0
+Alabama,Mobile,2025,0.0,1.0
+Alabama,Montgomery,2025,0.0,1.0
+Alabama,Morgan,2025,0.0,1.0
+Alabama,Russell,2025,0.0,1.0
+Alabama,Shelby,2025,0.0,1.0
+Alabama,Sumter,2025,0.0,1.0
+Alabama,Tuscaloosa,2025,0.0,1.0
+Alaska,Aleutians East,2025,0.0,0.1111111111111111
+Alaska,Anchorage,2025,0.0,1.0
+Alaska,Denali,2025,0.0,1.0
+Alaska,Fairbanks North Star,2025,0.02197802197802198,1.0
+Alaska,Juneau,2025,0.0,1.0
+Alaska,Kenai Peninsula,2025,0.0,0.1111111111111111
+Alaska,Matanuska-Susitna,2025,0.0,0.9777777777777777
+Alaska,North Slope,2025,0.0,0.10555555555555556
+Arizona,Apache,2025,0.0,1.0
+Arizona,Cochise,2025,0.007326007326007326,1.0
+Arizona,Coconino,2025,0.0,1.0
+Arizona,Gila,2025,0.003663003663003663,1.0
+Arizona,La Paz,2025,0.0036900369003690036,1.0
+Arizona,Maricopa,2025,0.019736842105263157,1.0
+Arizona,Mohave,2025,0.007380073800738007,1.0
+Arizona,Navajo,2025,0.0,1.0
+Arizona,Pima,2025,0.018315018315018316,1.0
+Arizona,Pinal,2025,0.014925373134328358,1.0
+Arizona,Santa Cruz,2025,0.003676470588235294,1.0
+Arizona,Yavapai,2025,0.0,1.0
+Arizona,Yuma,2025,0.003663003663003663,1.0
+Arkansas,Arkansas,2025,0.0,0.5055555555555555
+Arkansas,Ashley,2025,0.0,0.5055555555555555
+Arkansas,Clark,2025,0.0,1.0
+Arkansas,Crittenden,2025,0.0,1.0
+Arkansas,Garland,2025,0.0,0.5055555555555555
+Arkansas,Jackson,2025,0.0,0.5055555555555555
+Arkansas,Newton,2025,0.0,1.0
+Arkansas,Polk,2025,0.0,1.0
+Arkansas,Pulaski,2025,0.0072992700729927005,1.0
+Arkansas,Union,2025,0.0,0.5055555555555555
+Arkansas,Washington,2025,0.0,1.0
+California,Amador,2025,0.0,1.0
+California,Butte,2025,0.0,1.0
+California,Calaveras,2025,0.0,1.0
+California,Colusa,2025,0.0,1.0
+California,Del Norte,2025,0.0,0.9944444444444445
+California,El Dorado,2025,0.0,1.0
+California,Fresno,2025,0.003289473684210526,1.0
+California,Glenn,2025,0.0,1.0
+California,Humboldt,2025,0.0,1.0
+California,Imperial,2025,0.0273972602739726,1.0
+California,Inyo,2025,0.01098901098901099,1.0
+California,Kern,2025,0.0,1.0
+California,Kings,2025,0.0,1.0
+California,Lake,2025,0.0,0.18888888888888888
+California,Los Angeles,2025,0.10948905109489052,1.0
+California,Madera,2025,0.0,0.6666666666666666
+California,Marin,2025,0.0,0.1111111111111111
+California,Mariposa,2025,0.0,1.0
+California,Merced,2025,0.0,0.5
+California,Mono,2025,0.0,1.0
+California,Monterey,2025,0.0,1.0
+California,Nevada,2025,0.0,1.0
+California,Orange,2025,0.0036496350364963502,1.0
+California,Placer,2025,0.0,1.0
+California,Plumas,2025,0.0,1.0
+California,Riverside,2025,0.12043795620437957,1.0
+California,Sacramento,2025,0.0,1.0
+California,San Benito,2025,0.0,1.0
+California,San Bernardino,2025,0.15328467153284672,1.0
+California,San Diego,2025,0.01838235294117647,1.0
+California,San Joaquin,2025,0.0,1.0
+California,San Luis Obispo,2025,0.0,1.0
+California,Santa Barbara,2025,0.0055248618784530384,1.0
+California,Santa Cruz,2025,0.0,1.0
+California,Shasta,2025,0.0,1.0
+California,Siskiyou,2025,0.0,0.08333333333333333
+California,Solano,2025,0.0,1.0
+California,Sonoma,2025,0.0,1.0
+California,Stanislaus,2025,0.0,1.0
+California,Sutter,2025,0.0,1.0
+California,Tehama,2025,0.0,1.0
+California,Trinity,2025,0.0,0.8444444444444444
+California,Tulare,2025,0.0,1.0
+California,Tuolumne,2025,0.0,1.0
+California,Ventura,2025,0.0,1.0
+California,Yolo,2025,0.0,1.0
+Colorado,Adams,2025,0.0,1.0
+Colorado,Alamosa,2025,0.0,1.0
+Colorado,Arapahoe,2025,0.0,1.0
+Colorado,Archuleta,2025,0.0,1.0
+Colorado,Boulder,2025,0.0,1.0
+Colorado,Clear Creek,2025,0.0,1.0
+Colorado,Delta,2025,0.0,0.65
+Colorado,Denver,2025,0.0,1.0
+Colorado,Douglas,2025,0.0,1.0
+Colorado,El Paso,2025,0.0,1.0
+Colorado,Fremont,2025,0.0,1.0
+Colorado,Garfield,2025,0.0,1.0
+Colorado,Gilpin,2025,0.0,1.0
+Colorado,Gunnison,2025,0.0,1.0
+Colorado,Jackson,2025,0.0,0.09444444444444444
+Colorado,Jefferson,2025,0.0,1.0
+Colorado,La Plata,2025,0.0,1.0
+Colorado,Larimer,2025,0.0,1.0
+Colorado,Mesa,2025,0.0,1.0
+Colorado,Montezuma,2025,0.0,1.0
+Colorado,Pitkin,2025,0.003663003663003663,1.0
+Colorado,Prowers,2025,0.009478672985781991,1.0
+Colorado,Pueblo,2025,0.0,1.0
+Colorado,Routt,2025,0.0,1.0
+Colorado,San Juan,2025,0.0,0.1111111111111111
+Colorado,San Miguel,2025,0.0,1.0
+Colorado,Weld,2025,0.0,1.0
+Connecticut,Fairfield,2025,0.0055248618784530384,1.0
+Connecticut,Hartford,2025,0.0055248618784530384,1.0
+Connecticut,Litchfield,2025,0.0055248618784530384,1.0
+Connecticut,Middlesex,2025,0.00819672131147541,0.6777777777777778
+Connecticut,New Haven,2025,0.0055248618784530384,1.0
+Connecticut,New London,2025,0.0,1.0
+Connecticut,Tolland,2025,0.0,0.6611111111111111
+Connecticut,Windham,2025,0.0,1.0
+Country Of Mexico,SONORA,2025,0.007326007326007326,1.0
+Delaware,Kent,2025,0.0,1.0
+Delaware,New Castle,2025,0.005494505494505495,1.0
+Delaware,Sussex,2025,0.0,1.0
+District Of Columbia,District of Columbia,2025,0.0,1.0
+Florida,Alachua,2025,0.0,1.0
+Florida,Baker,2025,0.0,1.0
+Florida,Bay,2025,0.0,1.0
+Florida,Brevard,2025,0.0,1.0
+Florida,Broward,2025,0.0,1.0
+Florida,Citrus,2025,0.0,1.0
+Florida,Collier,2025,0.0,1.0
+Florida,Columbia,2025,0.0,1.0
+Florida,Duval,2025,0.0,1.0
+Florida,Escambia,2025,0.0,1.0
+Florida,Flagler,2025,0.0,1.0
+Florida,Hamilton,2025,0.0,1.0
+Florida,Highlands,2025,0.0,1.0
+Florida,Hillsborough,2025,0.0,1.0
+Florida,Holmes,2025,0.0,1.0
+Florida,Indian River,2025,0.0,1.0
+Florida,Lake,2025,0.0,1.0
+Florida,Lee,2025,0.0,1.0
+Florida,Leon,2025,0.0,1.0
+Florida,Liberty,2025,0.0,1.0
+Florida,Manatee,2025,0.0,1.0
+Florida,Marion,2025,0.0,1.0
+Florida,Martin,2025,0.0,1.0
+Florida,Miami-Dade,2025,0.0,1.0
+Florida,Okaloosa,2025,0.0,1.0
+Florida,Orange,2025,0.0,1.0
+Florida,Osceola,2025,0.0,1.0
+Florida,Palm Beach,2025,0.0,1.0
+Florida,Pasco,2025,0.0,1.0
+Florida,Pinellas,2025,0.0,1.0
+Florida,Polk,2025,0.0,1.0
+Florida,Putnam,2025,0.0,1.0
+Florida,Santa Rosa,2025,0.0,1.0
+Florida,Sarasota,2025,0.0,1.0
+Florida,Seminole,2025,0.0,1.0
+Florida,St. Lucie,2025,0.0,1.0
+Florida,Volusia,2025,0.0,1.0
+Florida,Wakulla,2025,0.0,1.0
+Georgia,Bibb,2025,0.0,1.0
+Georgia,Charlton,2025,0.0,0.10555555555555556
+Georgia,Chatham,2025,0.0,1.0
+Georgia,Clarke,2025,0.0,1.0
+Georgia,Clayton,2025,0.0,0.45
+Georgia,Cobb,2025,0.0,1.0
+Georgia,Coffee,2025,0.0,1.0
+Georgia,Dawson,2025,0.0,1.0
+Georgia,DeKalb,2025,0.0,1.0
+Georgia,Dougherty,2025,0.0,1.0
+Georgia,Douglas,2025,0.0,0.5444444444444444
+Georgia,Floyd,2025,0.0,1.0
+Georgia,Fulton,2025,0.0,1.0
+Georgia,Glynn,2025,0.0,1.0
+Georgia,Gwinnett,2025,0.0,1.0
+Georgia,Hall,2025,0.0,1.0
+Georgia,Henry,2025,0.0,1.0
+Georgia,Houston,2025,0.0,1.0
+Georgia,Lowndes,2025,0.0,1.0
+Georgia,Murray,2025,0.0,1.0
+Georgia,Muscogee,2025,0.007352941176470588,1.0
+Georgia,Pike,2025,0.0,1.0
+Georgia,Richmond,2025,0.0,1.0
+Georgia,Rockdale,2025,0.0,1.0
+Georgia,Walker,2025,0.00823045267489712,1.0
+Georgia,Washington,2025,0.0,1.0
+Hawaii,Hawaii,2025,0.0,1.0
+Hawaii,Honolulu,2025,0.0,1.0
+Hawaii,Maui,2025,0.0,1.0
+Idaho,Ada,2025,0.0,1.0
+Idaho,Bannock,2025,0.0,1.0
+Idaho,Benewah,2025,0.0,1.0
+Idaho,Blaine,2025,0.0,0.9222222222222223
+Idaho,Boise,2025,0.0,1.0
+Idaho,Bonner,2025,0.0,1.0
+Idaho,Bonneville,2025,0.0,0.9722222222222222
+Idaho,Butte,2025,0.0,1.0
+Idaho,Canyon,2025,0.0,0.9944444444444445
+Idaho,Custer,2025,0.0,0.1111111111111111
+Idaho,Franklin,2025,0.0,0.9277777777777778
+Idaho,Idaho,2025,0.0,1.0
+Idaho,Kootenai,2025,0.0,1.0
+Idaho,Latah,2025,0.0,0.8611111111111112
+Idaho,Lemhi,2025,0.0,1.0
+Idaho,Nez Perce,2025,0.0,1.0
+Idaho,Shoshone,2025,0.0,1.0
+Idaho,Twin Falls,2025,0.0,1.0
+Idaho,Valley,2025,0.0,0.9388888888888889
+Illinois,Adams,2025,0.0,1.0
+Illinois,Champaign,2025,0.0,1.0
+Illinois,Clark,2025,0.0,1.0
+Illinois,Cook,2025,0.01824817518248175,1.0
+Illinois,DuPage,2025,0.003663003663003663,1.0
+Illinois,Effingham,2025,0.0,1.0
+Illinois,Hamilton,2025,0.0,1.0
+Illinois,Jersey,2025,0.0037593984962406013,1.0
+Illinois,Jo Daviess,2025,0.0,1.0
+Illinois,Kane,2025,0.003663003663003663,1.0
+Illinois,Lake,2025,0.0,1.0
+Illinois,Macon,2025,0.0,1.0
+Illinois,Macoupin,2025,0.0,1.0
+Illinois,Madison,2025,0.003289473684210526,1.0
+Illinois,McHenry,2025,0.003676470588235294,1.0
+Illinois,McLean,2025,0.003663003663003663,1.0
+Illinois,Peoria,2025,0.007407407407407408,1.0
+Illinois,Randolph,2025,0.003676470588235294,1.0
+Illinois,Rock Island,2025,0.007326007326007326,1.0
+Illinois,Saint Clair,2025,0.003355704697986577,1.0
+Illinois,Sangamon,2025,0.0,1.0
+Illinois,Will,2025,0.003663003663003663,1.0
+Illinois,Winnebago,2025,0.0038022813688212928,1.0
+Indiana,Allen,2025,0.0,1.0
+Indiana,Bartholomew,2025,0.0,1.0
+Indiana,Boone,2025,0.0,1.0
+Indiana,Brown,2025,0.0,1.0
+Indiana,Carroll,2025,0.0,1.0
+Indiana,Clark,2025,0.0,1.0
+Indiana,Delaware,2025,0.0,1.0
+Indiana,Dubois,2025,0.0,1.0
+Indiana,Elkhart,2025,0.0,1.0
+Indiana,Floyd,2025,0.0,1.0
+Indiana,Greene,2025,0.0,1.0
+Indiana,Hamilton,2025,0.0,1.0
+Indiana,Hendricks,2025,0.0,1.0
+Indiana,Henry,2025,0.0,1.0
+Indiana,Howard,2025,0.0,1.0
+Indiana,Knox,2025,0.0,1.0
+Indiana,LaPorte,2025,0.003663003663003663,1.0
+Indiana,Lake,2025,0.014652014652014652,1.0
+Indiana,Madison,2025,0.0,1.0
+Indiana,Marion,2025,0.006557377049180328,1.0
+Indiana,Monroe,2025,0.0,1.0
+Indiana,Perry,2025,0.0,1.0
+Indiana,Porter,2025,0.0,1.0
+Indiana,Posey,2025,0.0,1.0
+Indiana,Shelby,2025,0.0,1.0
+Indiana,Spencer,2025,0.0,1.0
+Indiana,St. Joseph,2025,0.0,1.0
+Indiana,Tippecanoe,2025,0.0,1.0
+Indiana,Vanderburgh,2025,0.0,1.0
+Indiana,Vigo,2025,0.0,1.0
+Indiana,Wabash,2025,0.0,1.0
+Indiana,Warrick,2025,0.0,1.0
+Indiana,Whitley,2025,0.0,1.0
+Iowa,Black Hawk,2025,0.003289473684210526,1.0
+Iowa,Bremer,2025,0.0,1.0
+Iowa,Clinton,2025,0.003289473684210526,1.0
+Iowa,Harrison,2025,0.0,1.0
+Iowa,Johnson,2025,0.003289473684210526,1.0
+Iowa,Linn,2025,0.003289473684210526,1.0
+Iowa,Montgomery,2025,0.0,1.0
+Iowa,Muscatine,2025,0.0,1.0
+Iowa,Palo Alto,2025,0.0,1.0
+Iowa,Polk,2025,0.0,1.0
+Iowa,Pottawattamie,2025,0.0,0.5
+Iowa,Scott,2025,0.003278688524590164,1.0
+Iowa,Van Buren,2025,0.0,1.0
+Iowa,Webster,2025,0.016260162601626018,0.6833333333333333
+Iowa,Woodbury,2025,0.0,1.0
+Kansas,Chase,2025,0.0,0.1
+Kansas,Douglas,2025,0.0,0.9
+Kansas,Ford,2025,0.0,1.0
+Kansas,Johnson,2025,0.0055248618784530384,1.0
+Kansas,Leavenworth,2025,0.0,1.0
+Kansas,Neosho,2025,0.0055248618784530384,1.0
+Kansas,Sedgwick,2025,0.0055248618784530384,1.0
+Kansas,Shawnee,2025,0.0055248618784530384,1.0
+Kansas,Sherman,2025,0.0,0.8277777777777777
+Kansas,Sumner,2025,0.0055248618784530384,1.0
+Kansas,Trego,2025,0.0,1.0
+Kansas,Wyandotte,2025,0.005952380952380952,0.9333333333333333
+Kentucky,Bell,2025,0.0,1.0
+Kentucky,Boone,2025,0.0,0.6777777777777778
+Kentucky,Boyd,2025,0.0,1.0
+Kentucky,Bullitt,2025,0.0,0.6111111111111112
+Kentucky,Campbell,2025,0.0,1.0
+Kentucky,Carter,2025,0.0,1.0
+Kentucky,Christian,2025,0.0,1.0
+Kentucky,Daviess,2025,0.0,1.0
+Kentucky,Edmonson,2025,0.0,1.0
+Kentucky,Fayette,2025,0.0,1.0
+Kentucky,Greenup,2025,0.0,0.6777777777777778
+Kentucky,Hancock,2025,0.0,0.6777777777777778
+Kentucky,Hardin,2025,0.0,0.7055555555555556
+Kentucky,Jefferson,2025,0.0,1.0
+Kentucky,Jessamine,2025,0.0,0.9944444444444445
+Kentucky,Livingston,2025,0.0,0.5888888888888889
+Kentucky,McCracken,2025,0.0,1.0
+Kentucky,Morgan,2025,0.0,1.0
+Kentucky,Oldham,2025,0.0,0.6777777777777778
+Kentucky,Perry,2025,0.0055248618784530384,1.0
+Kentucky,Pike,2025,0.0,1.0
+Kentucky,Pulaski,2025,0.0,1.0
+Kentucky,Simpson,2025,0.0,0.6722222222222223
+Kentucky,Warren,2025,0.0,1.0
+Kentucky,Washington,2025,0.0,1.0
+Louisiana,Ascension,2025,0.0,1.0
+Louisiana,Bossier,2025,0.0,1.0
+Louisiana,Caddo,2025,0.0,1.0
+Louisiana,Calcasieu,2025,0.0,1.0
+Louisiana,East Baton Rouge,2025,0.0,1.0
+Louisiana,Iberville,2025,0.0,1.0
+Louisiana,Jefferson,2025,0.0,1.0
+Louisiana,Lafayette,2025,0.0,1.0
+Louisiana,Lafourche,2025,0.0,1.0
+Louisiana,Livingston,2025,0.0,1.0
+Louisiana,Orleans,2025,0.0,1.0
+Louisiana,Ouachita,2025,0.0,1.0
+Louisiana,Pointe Coupee,2025,0.0,1.0
+Louisiana,Rapides,2025,0.0,0.31666666666666665
+Louisiana,St. Bernard,2025,0.0,1.0
+Louisiana,St. James,2025,0.0,1.0
+Louisiana,St. John the Baptist,2025,0.0,1.0
+Louisiana,St. Martin,2025,0.0,1.0
+Louisiana,St. Tammany,2025,0.0,1.0
+Louisiana,Tangipahoa,2025,0.0,0.34444444444444444
+Louisiana,Terrebonne,2025,0.0,0.3388888888888889
+Louisiana,West Baton Rouge,2025,0.0,1.0
+Maine,Androscoggin,2025,0.0,1.0
+Maine,Aroostook,2025,0.0,1.0
+Maine,Cumberland,2025,0.0,1.0
+Maine,Hancock,2025,0.0,1.0
+Maine,Kennebec,2025,0.0,1.0
+Maine,Knox,2025,0.0,1.0
+Maine,Oxford,2025,0.0,1.0
+Maine,Penobscot,2025,0.0,1.0
+Maine,Sagadahoc,2025,0.0,1.0
+Maine,Washington,2025,0.0,1.0
+Maine,York,2025,0.003289473684210526,1.0
+Maryland,Anne Arundel,2025,0.0,1.0
+Maryland,Baltimore,2025,0.0,1.0
+Maryland,Baltimore (City),2025,0.0,1.0
+Maryland,Calvert,2025,0.0,1.0
+Maryland,Carroll,2025,0.0,1.0
+Maryland,Cecil,2025,0.0,1.0
+Maryland,Charles,2025,0.0,1.0
+Maryland,Dorchester,2025,0.0,1.0
+Maryland,Frederick,2025,0.0,1.0
+Maryland,Garrett,2025,0.0,1.0
+Maryland,Harford,2025,0.0,1.0
+Maryland,Howard,2025,0.0,1.0
+Maryland,Kent,2025,0.0,1.0
+Maryland,Montgomery,2025,0.0,1.0
+Maryland,Prince George's,2025,0.0,1.0
+Maryland,Washington,2025,0.0,1.0
+Massachusetts,Barnstable,2025,0.0,1.0
+Massachusetts,Berkshire,2025,0.0,1.0
+Massachusetts,Bristol,2025,0.0,1.0
+Massachusetts,Dukes,2025,0.004761904761904762,1.0
+Massachusetts,Essex,2025,0.0,1.0
+Massachusetts,Franklin,2025,0.0,1.0
+Massachusetts,Hampden,2025,0.0,1.0
+Massachusetts,Hampshire,2025,0.0,1.0
+Massachusetts,Middlesex,2025,0.0,1.0
+Massachusetts,Norfolk,2025,0.0,1.0
+Massachusetts,Plymouth,2025,0.0,1.0
+Massachusetts,Suffolk,2025,0.0,1.0
+Massachusetts,Worcester,2025,0.0,1.0
+Michigan,Allegan,2025,0.0033112582781456954,1.0
+Michigan,Bay,2025,0.0,1.0
+Michigan,Benzie,2025,0.0,1.0
+Michigan,Berrien,2025,0.0,1.0
+Michigan,Cass,2025,0.0,1.0
+Michigan,Clinton,2025,0.0,1.0
+Michigan,Genesee,2025,0.0,1.0
+Michigan,Huron,2025,0.0,1.0
+Michigan,Ingham,2025,0.0,1.0
+Michigan,Kalamazoo,2025,0.0,1.0
+Michigan,Kent,2025,0.0,1.0
+Michigan,Keweenaw,2025,0.0,0.10555555555555556
+Michigan,Lenawee,2025,0.0,1.0
+Michigan,Macomb,2025,0.0033003300330033004,1.0
+Michigan,Manistee,2025,0.003289473684210526,1.0
+Michigan,Marquette,2025,0.008130081300813009,0.6833333333333333
+Michigan,Mason,2025,0.0,1.0
+Michigan,Missaukee,2025,0.0,1.0
+Michigan,Muskegon,2025,0.0,1.0
+Michigan,Oakland,2025,0.003289473684210526,1.0
+Michigan,Ottawa,2025,0.0,1.0
+Michigan,Schoolcraft,2025,0.0,1.0
+Michigan,St. Clair,2025,0.0,1.0
+Michigan,Tuscola,2025,0.0,1.0
+Michigan,Washtenaw,2025,0.0033783783783783786,1.0
+Michigan,Wayne,2025,0.009868421052631578,1.0
+Michigan,Wexford,2025,0.0,1.0
+Minnesota,Anoka,2025,0.00558659217877095,0.9944444444444445
+Minnesota,Becker,2025,0.0,0.7277777777777777
+Minnesota,Beltrami,2025,0.0,0.9388888888888889
+Minnesota,Blue Earth,2025,0.0,0.9611111111111111
+Minnesota,Carlton,2025,0.0,0.9388888888888889
+Minnesota,Cass,2025,0.0,0.5
+Minnesota,Cook,2025,0.0,0.4777777777777778
+Minnesota,Crow Wing,2025,0.0,0.9944444444444445
+Minnesota,Dakota,2025,0.0,1.0
+Minnesota,Goodhue,2025,0.0,0.6722222222222223
+Minnesota,Hennepin,2025,0.005494505494505495,1.0
+Minnesota,Lake,2025,0.0,0.9
+Minnesota,Lyon,2025,0.0,1.0
+Minnesota,Mille Lacs,2025,0.0,0.6611111111111111
+Minnesota,Olmsted,2025,0.0,0.8888888888888888
+Minnesota,Ramsey,2025,0.008264462809917356,0.6722222222222223
+Minnesota,Saint Louis,2025,0.0,1.0
+Minnesota,Scott,2025,0.0,0.9444444444444444
+Minnesota,Stearns,2025,0.0,0.9555555555555556
+Minnesota,Washington,2025,0.0,0.6722222222222223
+Minnesota,Winona,2025,0.0,0.09444444444444444
+Minnesota,Wright,2025,0.0,0.8722222222222222
+Mississippi,Bolivar,2025,0.0,1.0
+Mississippi,DeSoto,2025,0.0,1.0
+Mississippi,Forrest,2025,0.0,1.0
+Mississippi,Hancock,2025,0.0,1.0
+Mississippi,Harrison,2025,0.0,1.0
+Mississippi,Hinds,2025,0.0,1.0
+Mississippi,Jackson,2025,0.0,1.0
+Mississippi,Lauderdale,2025,0.0,1.0
+Mississippi,Lee,2025,0.0,1.0
+Mississippi,Yalobusha,2025,0.0,1.0
+Missouri,Andrew,2025,0.0,0.49444444444444446
+Missouri,Boone,2025,0.0,0.5111111111111111
+Missouri,Buchanan,2025,0.006756756756756757,0.8222222222222222
+Missouri,Callaway,2025,0.0,0.5777777777777777
+Missouri,Cass,2025,0.0,0.8111111111111111
+Missouri,Cedar,2025,0.0,0.8222222222222222
+Missouri,Clay,2025,0.0,0.8111111111111111
+Missouri,Clinton,2025,0.0,0.5055555555555555
+Missouri,Greene,2025,0.006802721088435374,0.8166666666666667
+Missouri,Jackson,2025,0.006622516556291391,0.8388888888888889
+Missouri,Jasper,2025,0.006756756756756757,0.8222222222222222
+Missouri,Jefferson,2025,0.0,0.8222222222222222
+Missouri,Lincoln,2025,0.0,0.5055555555555555
+Missouri,Monroe,2025,0.0,0.8222222222222222
+Missouri,Perry,2025,0.0,0.55
+Missouri,Saint Charles,2025,0.0,0.5111111111111111
+Missouri,Saint Louis,2025,0.0,0.8222222222222222
+Missouri,Sainte Genevieve,2025,0.0,0.55
+Missouri,St. Louis City,2025,0.013245033112582781,0.8388888888888889
+Missouri,Stoddard,2025,0.0,0.06666666666666667
+Missouri,Taney,2025,0.0,0.09444444444444444
+Montana,Beaverhead,2025,0.0,0.9722222222222222
+Montana,Custer,2025,0.0,1.0
+Montana,Dawson,2025,0.0055248618784530384,1.0
+Montana,Fergus,2025,0.0,1.0
+Montana,Flathead,2025,0.0,1.0
+Montana,Gallatin,2025,0.0,1.0
+Montana,Glacier,2025,0.0,0.9277777777777778
+Montana,Hill,2025,0.006711409395973154,0.8277777777777777
+Montana,Lake,2025,0.0,0.1111111111111111
+Montana,Lewis and Clark,2025,0.0,1.0
+Montana,Lincoln,2025,0.0,0.9777777777777777
+Montana,Missoula,2025,0.0,1.0
+Montana,Phillips,2025,0.005847953216374269,0.95
+Montana,Powell,2025,0.0,0.09444444444444444
+Montana,Ravalli,2025,0.0,0.9666666666666667
+Montana,Richland,2025,0.0055248618784530384,1.0
+Montana,Roosevelt,2025,0.0,0.09444444444444444
+Montana,Rosebud,2025,0.0,0.1
+Montana,Sanders,2025,0.0,1.0
+Montana,Sheridan,2025,0.0,0.10555555555555556
+Montana,Silver Bow,2025,0.0,1.0
+Montana,Teton,2025,0.0,0.9611111111111111
+Montana,Yellowstone,2025,0.0,1.0
+Nebraska,Cass,2025,0.0,1.0
+Nebraska,Douglas,2025,0.0,1.0
+Nebraska,Gage,2025,0.0,1.0
+Nebraska,Hall,2025,0.0,1.0
+Nebraska,Knox,2025,0.0,1.0
+Nebraska,Lancaster,2025,0.0,0.5722222222222222
+Nebraska,Sarpy,2025,0.0,1.0
+Nebraska,Scotts Bluff,2025,0.0,1.0
+Nebraska,Thomas,2025,0.0,0.10555555555555556
+Nebraska,Washington,2025,0.0,1.0
+Nevada,Carson City,2025,0.0,0.9944444444444445
+Nevada,Churchill,2025,0.0,0.9666666666666667
+Nevada,Clark,2025,0.0,1.0
+Nevada,Douglas,2025,0.0,0.9777777777777777
+Nevada,Elko,2025,0.006578947368421052,0.8444444444444444
+Nevada,Lyon,2025,0.0,1.0
+Nevada,Nye,2025,0.0,1.0
+Nevada,Washoe,2025,0.0,1.0
+Nevada,White Pine,2025,0.0,1.0
+New Hampshire,Belknap,2025,0.0,1.0
+New Hampshire,Cheshire,2025,0.0,1.0
+New Hampshire,Coos,2025,0.0,1.0
+New Hampshire,Grafton,2025,0.0,1.0
+New Hampshire,Hillsborough,2025,0.0,1.0
+New Hampshire,Merrimack,2025,0.0,0.6777777777777778
+New Hampshire,Rockingham,2025,0.0,1.0
+New Jersey,Atlantic,2025,0.0,1.0
+New Jersey,Bergen,2025,0.0,1.0
+New Jersey,Camden,2025,0.005555555555555556,1.0
+New Jersey,Cumberland,2025,0.0,0.9888888888888889
+New Jersey,Gloucester,2025,0.0,0.9666666666666667
+New Jersey,Hudson,2025,0.0,1.0
+New Jersey,Hunterdon,2025,0.0,0.9888888888888889
+New Jersey,Mercer,2025,0.0,1.0
+New Jersey,Middlesex,2025,0.0,0.9888888888888889
+New Jersey,Monmouth,2025,0.013793103448275862,0.8055555555555556
+New Jersey,Morris,2025,0.0,1.0
+New Jersey,Ocean,2025,0.00558659217877095,0.9944444444444445
+New Jersey,Passaic,2025,0.0,1.0
+New Jersey,Union,2025,0.0,1.0
+New Jersey,Warren,2025,0.0,0.9833333333333333
+New Mexico,Bernalillo,2025,0.010948905109489052,1.0
+New Mexico,Catron,2025,0.0,0.10555555555555556
+New Mexico,Chaves,2025,0.0,0.1
+New Mexico,Dona Ana,2025,0.08058608058608059,1.0
+New Mexico,Eddy,2025,0.0,1.0
+New Mexico,Lea,2025,0.018315018315018316,1.0
+New Mexico,Lincoln,2025,0.0,0.10555555555555556
+New Mexico,Los Alamos,2025,0.0,0.1111111111111111
+New Mexico,Luna,2025,0.033582089552238806,1.0
+New Mexico,Rio Arriba,2025,0.0,1.0
+New Mexico,San Juan,2025,0.0,1.0
+New Mexico,Sandoval,2025,0.0,1.0
+New Mexico,Santa Fe,2025,0.0,1.0
+New Mexico,Socorro,2025,0.0,0.1111111111111111
+New Mexico,Taos,2025,0.0,1.0
+New Mexico,Valencia,2025,0.0,1.0
+New York,Albany,2025,0.0,1.0
+New York,Bronx,2025,0.0,1.0
+New York,Chautauqua,2025,0.0,1.0
+New York,Dutchess,2025,0.0,1.0
+New York,Erie,2025,0.0,1.0
+New York,Essex,2025,0.003663003663003663,1.0
+New York,Hamilton,2025,0.0,1.0
+New York,Jefferson,2025,0.0,1.0
+New York,Kings,2025,0.0,1.0
+New York,Monroe,2025,0.0,1.0
+New York,Nassau,2025,0.0,0.005555555555555556
+New York,New York,2025,0.0,1.0
+New York,Niagara,2025,0.0,1.0
+New York,Oneida,2025,0.0,1.0
+New York,Onondaga,2025,0.0,1.0
+New York,Orange,2025,0.0,1.0
+New York,Oswego,2025,0.0,1.0
+New York,Putnam,2025,0.0,1.0
+New York,Queens,2025,0.0031545741324921135,1.0
+New York,Richmond,2025,0.0,1.0
+New York,Rockland,2025,0.0,1.0
+New York,Saratoga,2025,0.0,1.0
+New York,Steuben,2025,0.0,1.0
+New York,Suffolk,2025,0.006329113924050633,1.0
+New York,Tompkins,2025,0.0,1.0
+New York,Wayne,2025,0.0,1.0
+New York,Westchester,2025,0.0,1.0
+North Carolina,Alexander,2025,0.0,1.0
+North Carolina,Avery,2025,0.0,1.0
+North Carolina,Buncombe,2025,0.0,1.0
+North Carolina,Caldwell,2025,0.0,1.0
+North Carolina,Carteret,2025,0.0,1.0
+North Carolina,Caswell,2025,0.0,1.0
+North Carolina,Catawba,2025,0.0,1.0
+North Carolina,Cumberland,2025,0.0,1.0
+North Carolina,Davidson,2025,0.0,1.0
+North Carolina,Durham,2025,0.0,1.0
+North Carolina,Edgecombe,2025,0.0,1.0
+North Carolina,Forsyth,2025,0.0,1.0
+North Carolina,Graham,2025,0.0,1.0
+North Carolina,Granville,2025,0.0,0.9833333333333333
+North Carolina,Guilford,2025,0.0,1.0
+North Carolina,Haywood,2025,0.0,1.0
+North Carolina,Hyde,2025,0.0,0.09444444444444444
+North Carolina,Johnston,2025,0.0,1.0
+North Carolina,Lenoir,2025,0.0,1.0
+North Carolina,Lincoln,2025,0.0,1.0
+North Carolina,Macon,2025,0.0,1.0
+North Carolina,Martin,2025,0.0,1.0
+North Carolina,Mecklenburg,2025,0.0,1.0
+North Carolina,Mitchell,2025,0.0,1.0
+North Carolina,Montgomery,2025,0.0,1.0
+North Carolina,New Hanover,2025,0.0,1.0
+North Carolina,Northampton,2025,0.0,1.0
+North Carolina,Person,2025,0.0,0.9777777777777777
+North Carolina,Pitt,2025,0.0,1.0
+North Carolina,Rockingham,2025,0.0,1.0
+North Carolina,Rowan,2025,0.0,1.0
+North Carolina,Swain,2025,0.0,1.0
+North Carolina,Union,2025,0.0,1.0
+North Carolina,Wake,2025,0.0,1.0
+North Dakota,Billings,2025,0.01646090534979424,1.0
+North Dakota,Burke,2025,0.03292181069958848,1.0
+North Dakota,Burleigh,2025,0.01639344262295082,1.0
+North Dakota,Cass,2025,0.029288702928870293,1.0
+North Dakota,Dunn,2025,0.012345679012345678,1.0
+North Dakota,McKenzie,2025,0.00823045267489712,1.0
+North Dakota,Mercer,2025,0.01646090534979424,1.0
+North Dakota,Oliver,2025,0.01646090534979424,1.0
+North Dakota,Ward,2025,0.0205761316872428,1.0
+Ohio,Allen,2025,0.0,1.0
+Ohio,Ashtabula,2025,0.0,1.0
+Ohio,Athens,2025,0.0,1.0
+Ohio,Belmont,2025,0.0,1.0
+Ohio,Butler,2025,0.003663003663003663,1.0
+Ohio,Clark,2025,0.0,1.0
+Ohio,Clermont,2025,0.0,1.0
+Ohio,Clinton,2025,0.0,1.0
+Ohio,Columbiana,2025,0.0,0.25555555555555554
+Ohio,Cuyahoga,2025,0.0,1.0
+Ohio,Delaware,2025,0.0,1.0
+Ohio,Franklin,2025,0.0036496350364963502,1.0
+Ohio,Geauga,2025,0.0,1.0
+Ohio,Greene,2025,0.0,1.0
+Ohio,Hamilton,2025,0.0036496350364963502,1.0
+Ohio,Jefferson,2025,0.0,1.0
+Ohio,Knox,2025,0.004672897196261682,1.0
+Ohio,Lake,2025,0.0,1.0
+Ohio,Lawrence,2025,0.0,1.0
+Ohio,Licking,2025,0.0,1.0
+Ohio,Lorain,2025,0.0,1.0
+Ohio,Lucas,2025,0.003663003663003663,1.0
+Ohio,Madison,2025,0.0,1.0
+Ohio,Mahoning,2025,0.0,1.0
+Ohio,Medina,2025,0.0,1.0
+Ohio,Miami,2025,0.0,1.0
+Ohio,Montgomery,2025,0.0,1.0
+Ohio,Noble,2025,0.0,1.0
+Ohio,Portage,2025,0.0,1.0
+Ohio,Preble,2025,0.0,1.0
+Ohio,Scioto,2025,0.003663003663003663,1.0
+Ohio,Stark,2025,0.0,1.0
+Ohio,Summit,2025,0.0,1.0
+Ohio,Trumbull,2025,0.0,1.0
+Ohio,Warren,2025,0.0,1.0
+Ohio,Washington,2025,0.0,1.0
+Ohio,Wood,2025,0.0,1.0
+Oklahoma,Adair,2025,0.0111731843575419,0.9944444444444445
+Oklahoma,Canadian,2025,0.0,1.0
+Oklahoma,Carter,2025,0.00398406374501992,1.0
+Oklahoma,Cleveland,2025,0.0,1.0
+Oklahoma,Comanche,2025,0.0,1.0
+Oklahoma,Creek,2025,0.0,1.0
+Oklahoma,Dewey,2025,0.003676470588235294,1.0
+Oklahoma,Grant,2025,0.0,0.1111111111111111
+Oklahoma,Kay,2025,0.0,1.0
+Oklahoma,Kiowa,2025,0.0,1.0
+Oklahoma,Love,2025,0.004672897196261682,1.0
+Oklahoma,Mayes,2025,0.0,0.6833333333333333
+Oklahoma,McClain,2025,0.0,1.0
+Oklahoma,Oklahoma,2025,0.0036496350364963502,1.0
+Oklahoma,Osage,2025,0.0,1.0
+Oklahoma,Ottawa,2025,0.003663003663003663,1.0
+Oklahoma,Pittsburg,2025,0.0,1.0
+Oklahoma,Sequoyah,2025,0.0,1.0
+Oklahoma,Tulsa,2025,0.0036496350364963502,1.0
+Oklahoma,Washington,2025,0.003663003663003663,1.0
+Oregon,Baker,2025,0.0,1.0
+Oregon,Clackamas,2025,0.0,1.0
+Oregon,Columbia,2025,0.0,1.0
+Oregon,Crook,2025,0.0,1.0
+Oregon,Deschutes,2025,0.0,1.0
+Oregon,Grant,2025,0.0,1.0
+Oregon,Harney,2025,0.0,1.0
+Oregon,Jackson,2025,0.0,1.0
+Oregon,Jefferson,2025,0.0,1.0
+Oregon,Josephine,2025,0.0,1.0
+Oregon,Klamath,2025,0.0,1.0
+Oregon,Lake,2025,0.0,1.0
+Oregon,Lane,2025,0.0,1.0
+Oregon,Linn,2025,0.0,1.0
+Oregon,Marion,2025,0.0,1.0
+Oregon,Multnomah,2025,0.0,1.0
+Oregon,Umatilla,2025,0.0,1.0
+Oregon,Union,2025,0.0,1.0
+Oregon,Wallowa,2025,0.0,1.0
+Oregon,Wasco,2025,0.0,1.0
+Oregon,Washington,2025,0.0,1.0
+Pennsylvania,Adams,2025,0.0,1.0
+Pennsylvania,Allegheny,2025,0.0,1.0
+Pennsylvania,Armstrong,2025,0.0,1.0
+Pennsylvania,Beaver,2025,0.0,1.0
+Pennsylvania,Berks,2025,0.0,1.0
+Pennsylvania,Blair,2025,0.0,1.0
+Pennsylvania,Bradford,2025,0.0,1.0
+Pennsylvania,Bucks,2025,0.0,1.0
+Pennsylvania,Cambria,2025,0.0,1.0
+Pennsylvania,Centre,2025,0.0,1.0
+Pennsylvania,Chester,2025,0.004761904761904762,1.0
+Pennsylvania,Cumberland,2025,0.0,1.0
+Pennsylvania,Dauphin,2025,0.0,1.0
+Pennsylvania,Delaware,2025,0.0047169811320754715,1.0
+Pennsylvania,Elk,2025,0.0,1.0
+Pennsylvania,Erie,2025,0.0,1.0
+Pennsylvania,Fayette,2025,0.0,1.0
+Pennsylvania,Franklin,2025,0.0,0.8722222222222222
+Pennsylvania,Greene,2025,0.0,1.0
+Pennsylvania,Indiana,2025,0.0,1.0
+Pennsylvania,Lackawanna,2025,0.0,1.0
+Pennsylvania,Lancaster,2025,0.0,1.0
+Pennsylvania,Lebanon,2025,0.0,1.0
+Pennsylvania,Lehigh,2025,0.0,1.0
+Pennsylvania,Lycoming,2025,0.0,1.0
+Pennsylvania,Mercer,2025,0.0,1.0
+Pennsylvania,Monroe,2025,0.0,0.9944444444444445
+Pennsylvania,Montgomery,2025,0.0,1.0
+Pennsylvania,Northampton,2025,0.0,1.0
+Pennsylvania,Philadelphia,2025,0.0,1.0
+Pennsylvania,Somerset,2025,0.0,1.0
+Pennsylvania,Susquehanna,2025,0.0,0.8777777777777778
+Pennsylvania,Tioga,2025,0.0,1.0
+Pennsylvania,Washington,2025,0.0,1.0
+Pennsylvania,Westmoreland,2025,0.0,1.0
+Pennsylvania,Wyoming,2025,0.0,1.0
+Pennsylvania,York,2025,0.0,1.0
+Puerto Rico,Bayamon,2025,0.0,0.6277777777777778
+Puerto Rico,Caguas,2025,0.0,0.8722222222222222
+Puerto Rico,Catano,2025,0.0,0.9722222222222222
+Puerto Rico,Fajardo,2025,0.0,0.3111111111111111
+Puerto Rico,Guayama,2025,0.0,0.15555555555555556
+Puerto Rico,Guaynabo,2025,0.0,0.31666666666666665
+Puerto Rico,Mayagnez,2025,0.012269938650306749,0.9055555555555556
+Puerto Rico,Ponce,2025,0.0,0.6722222222222223
+Rhode Island,Kent,2025,0.0,1.0
+Rhode Island,Providence,2025,0.004016064257028112,1.0
+Rhode Island,Washington,2025,0.0,1.0
+South Carolina,Aiken,2025,0.0,1.0
+South Carolina,Anderson,2025,0.0,1.0
+South Carolina,Berkeley,2025,0.0,1.0
+South Carolina,Charleston,2025,0.0,1.0
+South Carolina,Chesterfield,2025,0.0,1.0
+South Carolina,Darlington,2025,0.0,1.0
+South Carolina,Edgefield,2025,0.0,1.0
+South Carolina,Florence,2025,0.0,1.0
+South Carolina,Greenville,2025,0.0,1.0
+South Carolina,Horry,2025,0.007326007326007326,1.0
+South Carolina,Richland,2025,0.0,1.0
+South Carolina,Spartanburg,2025,0.0,1.0
+South Carolina,York,2025,0.0,1.0
+South Dakota,Brookings,2025,0.0055248618784530384,1.0
+South Dakota,Brown,2025,0.0,0.9888888888888889
+South Dakota,Clay,2025,0.0,0.9277777777777778
+South Dakota,Codington,2025,0.00558659217877095,0.9944444444444445
+South Dakota,Custer,2025,0.0,1.0
+South Dakota,Hughes,2025,0.0,0.9944444444444445
+South Dakota,Jackson,2025,0.0,1.0
+South Dakota,Meade,2025,0.0,1.0
+South Dakota,Minnehaha,2025,0.0,1.0
+South Dakota,Pennington,2025,0.0,1.0
+Tennessee,Anderson,2025,0.0,0.6777777777777778
+Tennessee,Blount,2025,0.0,1.0
+Tennessee,Claiborne,2025,0.0,1.0
+Tennessee,Davidson,2025,0.0,1.0
+Tennessee,DeKalb,2025,0.0,1.0
+Tennessee,Dyer,2025,0.0,1.0
+Tennessee,Hamilton,2025,0.0,1.0
+Tennessee,Jefferson,2025,0.0,0.6777777777777778
+Tennessee,Knox,2025,0.003663003663003663,1.0
+Tennessee,Lawrence,2025,0.0,0.9555555555555556
+Tennessee,Loudon,2025,0.0,1.0
+Tennessee,Madison,2025,0.0,1.0
+Tennessee,Maury,2025,0.0,0.9666666666666667
+Tennessee,McMinn,2025,0.0,0.9611111111111111
+Tennessee,Montgomery,2025,0.0,0.9777777777777777
+Tennessee,Putnam,2025,0.0,0.9722222222222222
+Tennessee,Roane,2025,0.0,0.9777777777777777
+Tennessee,Sevier,2025,0.0,1.0
+Tennessee,Shelby,2025,0.0,1.0
+Tennessee,Sullivan,2025,0.0,1.0
+Tennessee,Sumner,2025,0.0,0.9833333333333333
+Tennessee,Williamson,2025,0.0,0.6777777777777778
+Tennessee,Wilson,2025,0.0,0.6666666666666666
+Texas,Atascosa,2025,0.0,0.8722222222222222
+Texas,Bell,2025,0.0,1.0
+Texas,Bexar,2025,0.0,1.0
+Texas,Bowie,2025,0.0,1.0
+Texas,Brazoria,2025,0.0,1.0
+Texas,Brazos,2025,0.0,1.0
+Texas,Brewster,2025,0.00392156862745098,1.0
+Texas,Cameron,2025,0.0,1.0
+Texas,Collin,2025,0.004784688995215311,1.0
+Texas,Culberson,2025,0.0,0.1111111111111111
+Texas,Dallas,2025,0.0047169811320754715,1.0
+Texas,Denton,2025,0.0047169811320754715,1.0
+Texas,Ector,2025,0.00823045267489712,1.0
+Texas,El Paso,2025,0.12295081967213115,1.0
+Texas,Ellis,2025,0.0,1.0
+Texas,Galveston,2025,0.00823045267489712,1.0
+Texas,Gregg,2025,0.0,1.0
+Texas,Harris,2025,0.025547445255474453,1.0
+Texas,Harrison,2025,0.0,1.0
+Texas,Hidalgo,2025,0.0,1.0
+Texas,Hood,2025,0.0,1.0
+Texas,Hunt,2025,0.0,1.0
+Texas,Jefferson,2025,0.0,1.0
+Texas,Johnson,2025,0.0,1.0
+Texas,Karnes,2025,0.0,1.0
+Texas,Kaufman,2025,0.0,1.0
+Texas,Kleberg,2025,0.0,0.6666666666666666
+Texas,Lubbock,2025,0.004219409282700422,1.0
+Texas,Maverick,2025,0.0,1.0
+Texas,McLennan,2025,0.0,1.0
+Texas,Montgomery,2025,0.0,1.0
+Texas,Navarro,2025,0.0,1.0
+Texas,Nueces,2025,0.0,1.0
+Texas,Orange,2025,0.0,1.0
+Texas,Parker,2025,0.0,1.0
+Texas,Polk,2025,0.0,1.0
+Texas,Potter,2025,0.0,1.0
+Texas,Randall,2025,0.0,1.0
+Texas,Rockwall,2025,0.0,1.0
+Texas,Smith,2025,0.0,1.0
+Texas,Tarrant,2025,0.004694835680751174,1.0
+Texas,Travis,2025,0.0,1.0
+Texas,Victoria,2025,0.0,1.0
+Texas,Webb,2025,0.0,1.0
+Texas,Wilson,2025,0.0,1.0
+Utah,Box Elder,2025,0.0,1.0
+Utah,Cache,2025,0.0,1.0
+Utah,Carbon,2025,0.0,1.0
+Utah,Davis,2025,0.0,1.0
+Utah,Duchesne,2025,0.0,1.0
+Utah,Garfield,2025,0.0,0.1111111111111111
+Utah,Grand,2025,0.0,1.0
+Utah,Iron,2025,0.0,1.0
+Utah,Salt Lake,2025,0.003278688524590164,1.0
+Utah,San Juan,2025,0.0,1.0
+Utah,Tooele,2025,0.0,1.0
+Utah,Uintah,2025,0.0,1.0
+Utah,Utah,2025,0.0,1.0
+Utah,Wasatch,2025,0.0,1.0
+Utah,Washington,2025,0.0,1.0
+Utah,Wayne,2025,0.0,0.1
+Utah,Weber,2025,0.0,1.0
+Vermont,Bennington,2025,0.0,1.0
+Vermont,Chittenden,2025,0.0,1.0
+Vermont,Rutland,2025,0.0,1.0
+Vermont,Windham,2025,0.0,0.1111111111111111
+Virgin Islands,St John,2025,0.0,0.1111111111111111
+Virginia,Albemarle,2025,0.0,1.0
+Virginia,Arlington,2025,0.0,1.0
+Virginia,Bristol City,2025,0.0,0.5388888888888889
+Virginia,Caroline,2025,0.0,1.0
+Virginia,Carroll,2025,0.0,0.25
+Virginia,Charles,2025,0.0,1.0
+Virginia,Chesterfield,2025,0.0,1.0
+Virginia,Fairfax,2025,0.0,1.0
+Virginia,Fauquier,2025,0.0,1.0
+Virginia,Frederick,2025,0.0,1.0
+Virginia,Giles,2025,0.0,1.0
+Virginia,Hampton City,2025,0.0,1.0
+Virginia,Hanover,2025,0.0,1.0
+Virginia,Henrico,2025,0.0,1.0
+Virginia,Hopewell City,2025,0.0,0.18333333333333332
+Virginia,Loudoun,2025,0.0,1.0
+Virginia,Lynchburg City,2025,0.0,0.5277777777777778
+Virginia,Madison,2025,0.0,1.0
+Virginia,Norfolk City,2025,0.0,1.0
+Virginia,Prince Edward,2025,0.0,1.0
+Virginia,Prince William,2025,0.0,1.0
+Virginia,Richmond City,2025,0.0,1.0
+Virginia,Roanoke,2025,0.0,1.0
+Virginia,Rockbridge,2025,0.0,1.0
+Virginia,Rockingham,2025,0.0,1.0
+Virginia,Salem City,2025,0.0,0.5444444444444444
+Virginia,Stafford,2025,0.0,1.0
+Virginia,Suffolk City,2025,0.0,1.0
+Virginia,Virginia Beach City,2025,0.0,1.0
+Virginia,Wythe,2025,0.0,1.0
+Washington,Adams,2025,0.0,1.0
+Washington,Asotin,2025,0.004166666666666667,1.0
+Washington,Benton,2025,0.0,1.0
+Washington,Chelan,2025,0.0,1.0
+Washington,Clallam,2025,0.0,1.0
+Washington,Clark,2025,0.0,1.0
+Washington,Columbia,2025,0.0,1.0
+Washington,Cowlitz,2025,0.0,1.0
+Washington,Franklin,2025,0.0,1.0
+Washington,Garfield,2025,0.0,1.0
+Washington,Grant,2025,0.0,1.0
+Washington,Grays Harbor,2025,0.0,1.0
+Washington,Jefferson,2025,0.0,1.0
+Washington,King,2025,0.0,1.0
+Washington,Kitsap,2025,0.0,1.0
+Washington,Kittitas,2025,0.0,1.0
+Washington,Klickitat,2025,0.0,0.10555555555555556
+Washington,Lewis,2025,0.0,1.0
+Washington,Mason,2025,0.0,1.0
+Washington,Okanogan,2025,0.0,1.0
+Washington,Pacific,2025,0.0,1.0
+Washington,Pierce,2025,0.0,1.0
+Washington,Skagit,2025,0.0,1.0
+Washington,Snohomish,2025,0.0,1.0
+Washington,Spokane,2025,0.0,1.0
+Washington,Stevens,2025,0.0,1.0
+Washington,Thurston,2025,0.0,0.8944444444444445
+Washington,Walla Walla,2025,0.0,1.0
+Washington,Whatcom,2025,0.0,1.0
+Washington,Whitman,2025,0.0,1.0
+Washington,Yakima,2025,0.0,1.0
+West Virginia,Berkeley,2025,0.0,0.7055555555555556
+West Virginia,Brooke,2025,0.0,0.8833333333333333
+West Virginia,Cabell,2025,0.0,1.0
+West Virginia,Greenbrier,2025,0.0,0.6722222222222223
+West Virginia,Hancock,2025,0.0,1.0
+West Virginia,Harrison,2025,0.0,0.3333333333333333
+West Virginia,Kanawha,2025,0.0,1.0
+West Virginia,Marion,2025,0.0,0.3277777777777778
+West Virginia,Marshall,2025,0.0,0.8555555555555555
+West Virginia,Monongalia,2025,0.0,0.7166666666666667
+West Virginia,Ohio,2025,0.0,0.75
+West Virginia,Tucker,2025,0.0,1.0
+West Virginia,Wood,2025,0.0,0.7722222222222223
+Wisconsin,Ashland,2025,0.0055248618784530384,1.0
+Wisconsin,Brown,2025,0.0055248618784530384,1.0
+Wisconsin,Columbia,2025,0.0,0.5055555555555555
+Wisconsin,Dane,2025,0.0,1.0
+Wisconsin,Dodge,2025,0.0,1.0
+Wisconsin,Door,2025,0.0,0.5055555555555555
+Wisconsin,Eau Claire,2025,0.0055248618784530384,1.0
+Wisconsin,Fond du Lac,2025,0.0,0.5111111111111111
+Wisconsin,Forest,2025,0.005649717514124294,0.9833333333333333
+Wisconsin,Grant,2025,0.0,1.0
+Wisconsin,Jackson,2025,0.0,0.8333333333333334
+Wisconsin,Jefferson,2025,0.0,0.5111111111111111
+Wisconsin,Kenosha,2025,0.0,1.0
+Wisconsin,Kewaunee,2025,0.0,0.5111111111111111
+Wisconsin,La Crosse,2025,0.0,0.5111111111111111
+Wisconsin,Manitowoc,2025,0.0,0.5111111111111111
+Wisconsin,Marathon,2025,0.0,1.0
+Wisconsin,Milwaukee,2025,0.0,1.0
+Wisconsin,Monroe,2025,0.0,0.6722222222222223
+Wisconsin,Outagamie,2025,0.0055248618784530384,1.0
+Wisconsin,Ozaukee,2025,0.0,1.0
+Wisconsin,Racine,2025,0.0,0.5111111111111111
+Wisconsin,Rock,2025,0.0,0.5111111111111111
+Wisconsin,Sauk,2025,0.0,1.0
+Wisconsin,Sheboygan,2025,0.0,0.5111111111111111
+Wisconsin,Taylor,2025,0.0,1.0
+Wisconsin,Vilas,2025,0.0,0.5111111111111111
+Wisconsin,Walworth,2025,0.0,0.5111111111111111
+Wisconsin,Waukesha,2025,0.0,1.0
+Wyoming,Albany,2025,0.0,1.0
+Wyoming,Campbell,2025,0.0,1.0
+Wyoming,Carbon,2025,0.0,1.0
+Wyoming,Converse,2025,0.0,1.0
+Wyoming,Fremont,2025,0.0,1.0
+Wyoming,Johnson,2025,0.0,1.0
+Wyoming,Laramie,2025,0.0,1.0
+Wyoming,Lincoln,2025,0.0,1.0
+Wyoming,Natrona,2025,0.0,1.0
+Wyoming,Park,2025,0.0,1.0
+Wyoming,Platte,2025,0.0335195530726257,0.9944444444444445
+Wyoming,Sheridan,2025,0.0,0.9722222222222222
+Wyoming,Sublette,2025,0.0,1.0
+Wyoming,Sweetwater,2025,0.0,1.0
+Wyoming,Teton,2025,0.0,1.0
+Wyoming,Uinta,2025,0.0,0.48333333333333334
+Wyoming,Washakie,2025,0.0,1.0
