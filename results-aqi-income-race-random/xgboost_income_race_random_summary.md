@@ -38,19 +38,26 @@ This model predicts **median AQI** from **median household income** and **racial
 
 ### Test Set Performance
 
-| Metric | Income + Race | Income only (stratified) |
-|--------|---------------|--------------------------|
-| **RMSE** | 9.78 | 10.42 |
-| **MAE** | 6.78 | 6.93 |
-| **R²** | **0.105** | -0.04 |
+| Metric | Income + Race | Race only | Income only (stratified) |
+|--------|---------------|-----------|--------------------------|
+| **RMSE** | 9.78 | 9.88 | 10.42 |
+| **MAE** | 6.78 | 6.74 | 6.93 |
+| **R²** | **0.105** | 0.085 | -0.04 |
 
-### Feature Importance
+### Feature Importance (Income + Race model)
 
 | Feature | Importance |
 |---------|------------|
 | % Black or African American alone | 0.45 |
 | % Hispanic or Latino | 0.31 |
 | Median_Household_Income | 0.23 |
+
+### Feature Importance (Race-only model)
+
+| Feature | Importance |
+|---------|------------|
+| % Black or African American alone | 0.61 |
+| % Hispanic or Latino | 0.39 |
 
 ---
 
@@ -60,6 +67,7 @@ This model predicts **median AQI** from **median household income** and **racial
 - **% Black is the strongest predictor** — highest feature importance. Counties with higher % Black tend to have different AQI patterns, consistent with environmental justice literature on disproportionate exposure.
 - **% Latino is second** — also contributes meaningfully to prediction.
 - **Income matters less** — third in importance. Geography and demographic composition may interact with pollution sources in ways that income alone misses.
+- **Race-only model** — R² = 0.085. Race alone predicts AQI better than income alone (-0.04). Adding income to race yields a modest gain (0.105 vs 0.085).
 
 ---
 
