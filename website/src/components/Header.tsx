@@ -8,7 +8,7 @@ export default function Header() {
 
   const navItems = [
     { name: 'Visuals', href: '/visuals' },
-    { name: 'Model', href: '#model' },
+    { name: 'Process', href: '/process' },
     { name: 'Impact', href: '#impact' },
     { name: 'Data', href: '#data' },
     { name: 'About', href: '#about' },
