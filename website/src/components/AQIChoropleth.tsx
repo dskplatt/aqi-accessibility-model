@@ -73,12 +73,11 @@ export default function AQIChoropleth() {
                         text: text,
                         hoverinfo: 'text',
                         colorscale: [
-                            [0, 'rgb(254, 249, 195)'],    // Pale Yellow (Tailwind yellow-100)
-                            [0.3, 'rgb(253, 224, 71)'],   // Yellow (Tailwind yellow-300)
-                            [0.5, 'rgb(239, 68, 68)'],    // Red (Tailwind red-500)
-                            [0.8, 'rgb(153, 27, 27)'],    // Dark Red (Tailwind red-800)
-                            [0.9, 'rgb(126, 34, 206)'],   // Purple (Tailwind purple-700)
-                            [1, 'rgb(88, 28, 135)']       // Dark Purple (Tailwind purple-900)
+                            [0, 'rgb(167, 243, 208)'],    // Emerald-200 (good AQI)
+                            [0.3, 'rgb(253, 224, 71)'],    // Yellow (moderate)
+                            [0.5, 'rgb(249, 115, 22)'],   // Orange (unhealthy for sensitive)
+                            [0.8, 'rgb(239, 68, 68)'],    // Red (unhealthy)
+                            [1, 'rgb(185, 28, 28)']       // Dark Red (hazardous)
                         ],
                         reversescale: false,
                         marker: {

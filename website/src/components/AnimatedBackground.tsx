@@ -23,8 +23,8 @@ export default function AnimatedBackground() {
           className="w-full h-full animate-grid-flow"
           style={{
             backgroundImage: `
-              linear-gradient(to right, rgba(191, 90, 242, 0.1) 1px, transparent 1px),
-              linear-gradient(to bottom, rgba(94, 92, 230, 0.1) 1px, transparent 1px)
+              linear-gradient(to right, rgba(5, 150, 105, 0.1) 1px, transparent 1px),
+              linear-gradient(to bottom, rgba(2, 132, 199, 0.1) 1px, transparent 1px)
             `,
             backgroundSize: '80px 80px'
           }}

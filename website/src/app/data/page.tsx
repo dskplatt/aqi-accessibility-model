@@ -197,7 +197,7 @@ df['asian_density'] = df['% Asian alone'] * df['population_density'] / 100`}
             <p className="text-gray-600 mb-4">
               The resulting dataset has <strong className="text-slate-900">942 counties</strong>, <strong className="text-slate-900">39+ features</strong>, and <strong className="text-slate-900">median_aqi</strong> as the target. We use it to train an XGBoost model that predicts air quality from race, income, population density, and geography—demonstrating that clean air is not equally accessible and that exposure is associated with demographic factors.
             </p>
-            <div className="bg-purple-50 rounded-xl p-6 border border-purple-200">
+            <div className="bg-emerald-50 rounded-xl p-6 border border-emerald-200">
               <p className="text-gray-700">
                 <strong className="text-slate-900">Key insight:</strong> The model ranks <span className="text-accent-start font-semibold">black_density</span> and <span className="text-accent-start font-semibold">minority_density</span> as the top non-geographic features. This supports our thesis: air quality is systematically related to who lives where—a clear environmental justice signal.
               </p>
