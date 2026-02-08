@@ -189,14 +189,25 @@ print(f"\nCross-validation R² scores: {cv_scores}")
 print(f"Mean CV R²: {cv_scores.mean():.4f} (+/- {cv_scores.std() * 2:.4f})")
 
 # Plot predictions vs actual
-plt.figure(figsize=(10, 6))
-plt.scatter(y_test, y_pred_tuned, alpha=0.5)
-plt.plot([y_test.min(), y_test.max()], [y_test.min(), y_test.max()], 'r--', lw=2)
-plt.xlabel('Actual AQI')
-plt.ylabel('Predicted AQI')
-plt.title(f'Predictions vs Actual (R² = {r2_tuned:.4f})')
+plt.style.use('dark_background')
+fig = plt.figure(figsize=(10, 6), facecolor='#030712') # Tailwind gray-950
+ax = fig.add_subplot(111)
+ax.set_facecolor('#030712')
+
+plt.scatter(y_test, y_pred_tuned, alpha=0.5, color='#3b82f6', s=50) # Blue dots
+plt.plot([y_test.min(), y_test.max()], [y_test.min(), y_test.max()], color='#ef4444', linestyle='--', lw=2) # Red line
+
+plt.xlabel('Actual AQI', color='#9ca3af', fontsize=12)
+plt.ylabel('Predicted AQI', color='#9ca3af', fontsize=12)
+plt.title(f'Predictions vs Actual (R² = {r2_tuned:.4f})', color='white', fontsize=14, pad=20)
+
+# Customize grid and spines
+plt.grid(True, alpha=0.1, linestyle=':')
+for spine in ax.spines.values():
+    spine.set_color('#374151') # gray-700
+
 plt.tight_layout()
-plt.savefig('predictions_vs_actual.png', dpi=300)
+plt.savefig('predictions_vs_actual.png', dpi=300, facecolor=fig.get_facecolor(), edgecolor='none')
 print("\nSaved plot to 'predictions_vs_actual.png'")
 
 # Save the model
