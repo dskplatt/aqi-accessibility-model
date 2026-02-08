@@ -39,15 +39,7 @@ This model predicts **median AQI** (Air Quality Index) at the county level using
 
 ## Model Performance
 
-### Accuracy (Primary Metric)
-
-| Metric | Value |
-|--------|-------|
-| **EPA Category Accuracy** | **92.59%** |
-
-The model correctly predicts the EPA AQI category (Good 0–50, Moderate 51–100, etc.) for **92.59%** of counties on the held-out test set. This is the recommended accuracy metric for reporting.
-
-### Additional Accuracy Metrics
+### Accuracy Metrics
 
 | Metric | Value |
 |--------|-------|

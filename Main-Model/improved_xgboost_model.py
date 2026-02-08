@@ -8,7 +8,7 @@ from xgboost import XGBRegressor
 import matplotlib.pyplot as plt
 
 # Load data
-df = pd.read_csv('BEST-DATASET/joined-data-with-features.csv')
+df = pd.read_csv('main-dataset/main-dataset.csv')
 
 print(f"Dataset shape: {df.shape}")
 print(f"\nTarget variable distribution:")
