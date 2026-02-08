@@ -20,10 +20,10 @@ const visuals = [
         type: 'Model Performance',
         id: 'correlations',
         component: (
-            <div className="relative w-full h-full p-4 flex items-center justify-center bg-gray-950">
-                <img 
-                    src="/predictions_vs_actual_dark_v3.png" 
-                    alt="Predictions vs Actual" 
+            <div className="relative w-full h-full p-4 flex items-center justify-center bg-white">
+                <img
+                    src="/predictions_vs_actual_dark_v3.png"
+                    alt="Predictions vs Actual"
                     className="max-w-full max-h-full object-contain"
                 />
             </div>
@@ -35,10 +35,10 @@ const visuals = [
         type: 'Demographic Analysis',
         id: 'race-aqi',
         component: (
-            <div className="relative w-full h-full p-4 flex items-center justify-center bg-gray-950">
-                <img 
-                    src="/aqi_by_race_dark_v4.png" 
-                    alt="AQI by Race" 
+            <div className="relative w-full h-full p-4 flex items-center justify-center bg-white">
+                <img
+                    src="/aqi_by_race_dark_v4.png"
+                    alt="AQI by Race"
                     className="max-w-full max-h-full object-contain"
                 />
             </div>
@@ -50,10 +50,10 @@ const visuals = [
         type: 'Model Insights',
         id: 'importance',
         component: (
-            <div className="relative w-full h-full p-4 flex items-center justify-center bg-gray-950">
-                <img 
-                    src="/feature_importance_dark_v2.png" 
-                    alt="Top 5 Features" 
+            <div className="relative w-full h-full p-4 flex items-center justify-center bg-white">
+                <img
+                    src="/feature_importance_dark_v2.png"
+                    alt="Top 5 Features"
                     className="max-w-full max-h-full object-contain"
                 />
             </div>
@@ -74,7 +74,7 @@ export default function VisualsPage() {
     }, [expandedId]);
 
     return (
-        <div className="min-h-screen bg-gray-950 text-white">
+        <div className="min-h-screen bg-gradient-to-b from-white to-gray-50 text-slate-900">
             <Header />
 
             <main className="pt-32 pb-20 px-6">
@@ -87,7 +87,7 @@ export default function VisualsPage() {
                                     Visualizations
                                 </span>
                             </h1>
-                            <p className="text-xl text-gray-400 max-w-2xl">
+                            <p className="text-xl text-gray-600 max-w-2xl">
                                 Explore the deep connections between community demographics and environmental health through our interactive insights and machine learning outputs.
                             </p>
                         </div>
@@ -96,12 +96,12 @@ export default function VisualsPage() {
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-stretch">
                         {visuals.map((visual, index) => (
                             <ScrollSection key={visual.id} delay={index * 100} className="h-full">
-                                <div 
+                                <div
                                     onClick={() => setExpandedId(visual.id)}
-                                    className="group bg-gray-900 border border-gray-800 rounded-3xl overflow-hidden hover:border-accent-start/50 transition-all duration-300 h-full flex flex-col cursor-pointer hover:scale-[1.02]"
+                                    className="group bg-white border border-gray-200 rounded-3xl overflow-hidden hover:border-accent-start/50 hover:shadow-lg transition-all duration-300 h-full flex flex-col cursor-pointer hover:scale-[1.02]"
                                 >
                                     {/* Visual/Image Container */}
-                                    <div className="aspect-video bg-gray-800 relative flex items-center justify-center overflow-hidden">
+                                    <div className="aspect-video bg-gray-50 relative flex items-center justify-center overflow-hidden">
                                         <div className="absolute inset-0 bg-gradient-to-br from-accent-start/5 to-accent-end/10 group-hover:opacity-100 transition-opacity pointer-events-none" />
                                         
                                         {visual.component ? (
@@ -127,7 +127,7 @@ export default function VisualsPage() {
                                         <h3 className="text-2xl font-bold mb-4 group-hover:text-accent-start transition-colors">
                                             {visual.title}
                                         </h3>
-                                        <p className="text-gray-400 leading-relaxed">
+                                        <p className="text-gray-600 leading-relaxed">
                                             {visual.description}
                                         </p>
                                     </div>
@@ -140,38 +140,38 @@ export default function VisualsPage() {
 
             {/* Expanded Modal */}
             {expandedId && (
-                <div 
-                    className="fixed inset-0 z-[100] flex items-center justify-center p-4 md:p-10 bg-black/90 backdrop-blur-sm animate-in fade-in duration-300"
+                <div
+                    className="fixed inset-0 z-[100] flex items-center justify-center p-4 md:p-10 bg-black/70 backdrop-blur-sm animate-in fade-in duration-300"
                     onClick={() => setExpandedId(null)}
                 >
-                    <div 
-                        className="relative w-full max-w-6xl bg-gray-900 border border-gray-800 rounded-[2.5rem] overflow-hidden shadow-2xl flex flex-col h-[85vh]"
+                    <div
+                        className="relative w-full max-w-6xl bg-white border border-gray-200 rounded-[2.5rem] overflow-hidden shadow-2xl flex flex-col h-[85vh]"
                         onClick={(e) => e.stopPropagation()}
                     >
                         {/* Close Button */}
-                        <button 
+                        <button
                             onClick={() => setExpandedId(null)}
-                            className="absolute top-6 right-6 z-[110] w-12 h-12 flex items-center justify-center rounded-full bg-gray-800/50 hover:bg-gray-700 text-white transition-colors border border-gray-700"
+                            className="absolute top-6 right-6 z-[110] w-12 h-12 flex items-center justify-center rounded-full bg-white/90 hover:bg-gray-100 text-slate-900 transition-colors border border-gray-300 shadow-md"
                         >
                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
                         </button>
 
                         {/* Expanded Visual */}
-                        <div className="flex-grow bg-gray-950 flex items-center justify-center overflow-hidden">
+                        <div className="flex-grow bg-gray-50 flex items-center justify-center overflow-hidden">
                             {visuals.find(v => v.id === expandedId)?.component}
                         </div>
 
                         {/* Info Section */}
-                        <div className="p-8 md:p-10 bg-gray-900 border-t border-gray-800">
+                        <div className="p-8 md:p-10 bg-white border-t border-gray-200">
                             <div className="flex items-center gap-3 mb-4">
                                 <span className="px-4 py-1.5 bg-accent-start/10 text-accent-start text-sm font-bold uppercase tracking-widest rounded-full border border-accent-start/20">
                                     {visuals.find(v => v.id === expandedId)?.type}
                                 </span>
                             </div>
-                            <h2 className="text-3xl md:text-4xl font-bold mb-4">
+                            <h2 className="text-3xl md:text-4xl font-bold mb-4 text-slate-900">
                                 {visuals.find(v => v.id === expandedId)?.title}
                             </h2>
-                            <p className="text-xl text-gray-400 leading-relaxed max-w-4xl">
+                            <p className="text-xl text-gray-600 leading-relaxed max-w-4xl">
                                 {visuals.find(v => v.id === expandedId)?.description}
                             </p>
                         </div>
@@ -179,7 +179,7 @@ export default function VisualsPage() {
                 </div>
             )}
 
-            <footer className="py-12 px-6 border-t border-gray-800 text-center text-gray-500">
+            <footer className="py-12 px-6 border-t border-gray-200 text-center text-gray-600">
                 <p>© 2026 AQI Predictor. Powered by Census Data & Environmental Insights.</p>
             </footer>
         </div>

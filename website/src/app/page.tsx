@@ -7,7 +7,7 @@ import Link from 'next/link';
 
 export default function Home() {
   return (
-    <div className="min-h-screen bg-gradient-to-b from-gray-950 to-gray-900">
+    <div className="min-h-screen bg-gradient-to-b from-white to-gray-50">
       <Header />
 
       <main className="relative overflow-hidden">
@@ -17,14 +17,14 @@ export default function Home() {
         <section className="relative z-10 pt-32 pb-20 px-6">
           <div className="max-w-7xl mx-auto text-center">
             <ScrollSection>
-              <h1 className="text-6xl md:text-8xl font-bold font-montserrat text-white mb-6 leading-tight">
+              <h1 className="text-6xl md:text-8xl font-bold font-montserrat text-slate-900 mb-6 leading-tight">
                 Predicting AQI from
                 <br />
                 <span className="bg-gradient-to-r from-accent-start to-accent-end bg-clip-text text-transparent">
                   Census Data
                 </span>
               </h1>
-              <p className="text-xl text-gray-300 max-w-2xl mx-auto mb-8">
+              <p className="text-xl text-gray-600 max-w-2xl mx-auto mb-8">
                 Applying machine learning and demographic insights to forecast air quality
                 across communities
               </p>
@@ -37,7 +37,7 @@ export default function Home() {
                 </Link>
                 <Link
                   href="/data"
-                  className="w-56 py-4 bg-gray-800 text-white rounded-full font-bold text-lg border border-gray-700 hover:border-gray-600 hover:bg-gray-700 transition-all hover:scale-105 active:scale-95 flex items-center justify-center"
+                  className="w-56 py-4 bg-white text-slate-900 rounded-full font-bold text-lg border border-gray-300 hover:border-gray-400 hover:bg-gray-50 transition-all hover:scale-105 active:scale-95 flex items-center justify-center"
                 >
                   View Data
                 </Link>
@@ -50,7 +50,7 @@ export default function Home() {
         <section className="relative z-10 py-20 px-6" id="data">
           <div className="max-w-7xl mx-auto">
             <ScrollSection delay={100}>
-              <h2 className="text-4xl font-bold text-white mb-12 text-center">
+              <h2 className="text-4xl font-bold text-slate-900 mb-12 text-center">
                 By The Numbers
               </h2>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -100,8 +100,8 @@ export default function Home() {
 
 
       {/* Footer */}
-      <footer className="py-12 px-6 border-t border-gray-800">
-        <div className="max-w-7xl mx-auto text-center text-gray-400">
+      <footer className="py-12 px-6 border-t border-gray-200">
+        <div className="max-w-7xl mx-auto text-center text-gray-600">
           <p>Built with Next.js, React, and Tailwind CSS</p>
         </div>
       </footer>
