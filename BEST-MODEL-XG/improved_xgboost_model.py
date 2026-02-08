@@ -76,11 +76,13 @@ y = df_encoded['median_aqi']
 print(f"\nNumber of features: {X.shape[1]}")
 print(f"Features: {X.columns.tolist()}")
 
-# Handle missing values
-X = X.fillna(X.median())
-
-# Split data
+# Split data first (before any imputation to avoid leakage)
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+# Handle missing values using training median only (no test data in imputation)
+train_median = X_train.median()
+X_train = X_train.fillna(train_median)
+X_test = X_test.fillna(train_median)
 
 # Scale features (important for some features)
 scaler = RobustScaler()
