@@ -24,7 +24,7 @@ const planetVariants = {
     opacity: 0.7,
     scale: 1,
     transition: {
-      type: 'spring',
+      type: 'spring' as const,
       stiffness: 120,
       damping: 14,
     },
