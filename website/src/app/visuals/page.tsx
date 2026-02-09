@@ -22,7 +22,7 @@ const visuals = [
         component: (
             <div className="relative w-full h-full p-4 flex items-center justify-center bg-white">
                 <img
-                    src="/predictions_vs_actual_dark_v3.png"
+                    src="/predictions_vs_actual.png"
                     alt="Predictions vs Actual"
                     className="max-w-full max-h-full object-contain"
                 />
